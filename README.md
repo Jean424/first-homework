@@ -7,9 +7,7 @@ In this homewok, I made some changes as follows:
 5. change the div class into nav in css.
 6. clean css.
 
-Here is the links to get into the GitHub Pages.
-GitHub Pages: https://jean424.github.io/first-homework/
+Here is the link to get into the GitHub: https://jean424.github.io/first-homework/
 
-Here is the links to get into the Webiste Page.
-Website Page: https://github.com/Jean424/first-homework
+Here is the link to get into the Website: https://github.com/Jean424/first-homework
 
